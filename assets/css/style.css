@@ -1,0 +1,219 @@
+/* Estilos de la cabecera del documento (header primer nivel) */
+header {
+    margin-top: 0;
+    margin-left: 0;
+
+    width: 80rem;
+    height: 4.563rem;
+
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1;
+    padding-top: 0.438rem;
+}
+
+header h1 {
+    margin-top: 0.438rem;
+    margin-left: 33.125rem;
+    margin-right: 33.063rem;
+    margin-bottom: 0.438rem;
+
+    width: 13.813rem;
+    height: 3.688rem;
+
+    font: 3.125rem/3.688rem Raleway;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+/* Estilos del contenido principal (main) */
+
+/* Cabecera del contenido principal */
+main header {
+    margin-left: 0;
+    margin-top: 0;
+    width: 80rem;
+    height: 45.438rem;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    padding-top: 0;
+}
+
+/* Sección de definición */
+.seccion-definicion {
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+
+    width: 80rem;
+    height: 21.75rem;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.seccion-definicion-descripcion {
+
+    margin-top: 4.75rem;
+    margin-bottom: 4.688rem;
+    margin-left: 9.375rem;
+
+    width: 29.688rem;
+    height: 12.313rem;
+
+    display: inline-block;
+
+}
+
+.seccion-definicion-descripcion p {
+
+    margin-block-start: 0;
+    margin-block-end: 0.5rem;
+    text-align: left;
+    font: 1rem Raleway;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+
+}
+
+.seccion-definicion-imagen {
+
+    margin-top: 2.813rem;
+    margin-bottom: 4.125rem;
+    margin-left: 6.625rem;
+
+    width: 24.938rem;
+    height: 14.813rem;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+    display: inline-block;
+
+}
+
+.seccion-definicion-imagen img {
+    width: 24.938rem;
+    height: 14.813rem;
+}
+
+/* Sección de características */
+.seccion-caracteristicas {
+    top: 71.313rem;
+    left: 0;
+    width: 80rem;
+    height: 21.75rem;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.98;
+
+    text-align: center;
+}
+
+.seccion-caracteristicas h2 {
+
+    margin-block-start: 0;
+    margin-block-end: 0;
+
+    padding-top: 4.688rem;
+    padding-left: 28.969rem;
+    padding-right: 28.781rem;
+    width: 22.25rem;
+    height: 2.938rem;
+    text-align: left;
+    font: 2.5rem/2.938rem Raleway;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+
+}
+
+.tarjeta {
+    padding-top: 3.125rem;
+    color: #FFFFFF;
+    text-align: center;
+    display: inline-block;
+    width: 25%;
+}
+
+.tarjeta i {
+    font-size: 3.2rem;
+}
+
+.tarjeta p {
+
+    font: 1.5rem/1.813rem Raleway;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+/* Sección de galería */
+
+.seccion-galeria {
+    top: 93rem;
+    left: 0;
+    width: 80rem;
+    height: 21.75rem;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 0.96;
+
+    text-align: center;
+}
+
+.item-galeria {
+
+    margin-top: 4.563rem;
+    margin-bottom: 4.563rem;
+    width: 26%;
+    height: 12.625rem;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+    display: inline-block;
+}
+
+.item-galeria img {
+    width: 19.75rem;
+    height: 12.625rem;
+}
+
+footer {
+    top: 114.688rem;
+    left: 0;
+    width: 80rem;
+    height: 6.375rem;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.94;
+
+    text-align: center;
+}
+
+
+/* Pie de página (footer) */
+
+footer p {
+    margin-block-start: 0;
+    margin-block-end: 0;
+
+    padding-top: 2.438rem;
+    padding-bottom: 2.438rem;
+    padding-left: 18.688rem;
+    padding-right: 18.688rem;
+
+    text-align: left;
+    font: 1.188rem Raleway;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+
+}
+
+footer a {
+
+    text-align: left;
+    font: 1.188rem Raleway;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+
+}
